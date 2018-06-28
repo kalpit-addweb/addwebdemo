@@ -1,1 +1,2 @@
-issue1
+changed contents while rebasing
+contents from issue2
